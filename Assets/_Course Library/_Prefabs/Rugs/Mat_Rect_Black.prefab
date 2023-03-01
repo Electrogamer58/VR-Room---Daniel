@@ -13,12 +13,12 @@ GameObject:
   - component: {fileID: 2697808903989501447}
   - component: {fileID: -1073119143029565288}
   - component: {fileID: 2981370717122587973}
-  m_Layer: 9
+  m_Layer: 6
   m_Name: Mat_Rect_Black
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &3835842281012847976
 Transform:
